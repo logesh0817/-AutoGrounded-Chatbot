@@ -1,0 +1,8 @@
+streamlit==1.31.0
+ollama==0.1.6
+faiss-cpu==1.7.4
+sentence-transformers==2.3.1
+PyPDF2==3.0.1
+numpy==1.24.3
+torch==2.1.2
+transformers==4.36.2
